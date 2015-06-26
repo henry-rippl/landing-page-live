@@ -2,15 +2,13 @@ body {
   font-family: "Josefin Sans";
 }
 
-h3 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Josefin Sans";
 }
 
-.fullwidth {
-   width: 100%;
-   margin-left: auto;
-   margin-right: auto;
-   max-width: initial;
+.top-bar .title-area .name h1 {
+  font-family: "Futura";
+  font-size: 140%;
 }
 
 .text-centered {
@@ -19,4 +17,67 @@ h3 {
 
 .main-video {
   margin-bottom: 0rem;
+}
+
+.top-bar {
+  background-color: #cdbc9a;
+}
+
+.about-text p {
+  font-size: 150%;
+}
+
+.detail-section {
+  padding-bottom: 2rem;
+}
+
+.detail-section p {
+  font-size: 125%;
+}
+
+.detail-section img {
+  padding-top: 2.5rem;
+}
+
+.who-do-you {
+  background-color: #cdbc9a;
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.who-do-you h3 {
+  color: white;
+}
+
+.footer {
+  background-color: #aca089;
+  padding-top: 1.5rem;
+}
+
+.footer p, a {
+  color: white;
+}
+
+
+/* Helper Classes */
+
+.fullwidth {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
+.valign-middle {
+    display: table;
+}
+
+.valign-middle .columns {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.valign-middle .columns,
+.valign-middle [class*="column"] + [class*="column"]:last-child {
+    float: none;
 }
