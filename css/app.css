@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 140%;
 }
 
+.logo {
+  font-family: "Futura";
+}
+
 .text-centered {
   text-align: center;
 }
@@ -23,8 +27,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #cdbc9a;
 }
 
-.about-text p {
-  font-size: 150%;
+.about-section h2 {
+  font-size: 250%;
+}
+
+.about-section p {
+  font-size: 140%;
 }
 
 .detail-section {
