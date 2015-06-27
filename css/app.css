@@ -27,6 +27,26 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #cdbc9a;
 }
 
+.expanded .title-area li{
+  background-color: #cdbc9a;
+}
+
+.button {
+  font-family: "Josefin Sans";
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+  background-color: #958a77;
+}
+
+.button:hover {
+  background-color: #817867;
+}
+
+.top-bar-section .right li, form{
+  background-color: #cdbc9a;
+}
+
+
 .about-section h2 {
   font-size: 250%;
 }
@@ -88,4 +108,15 @@ h1, h2, h3, h4, h5, h6 {
 .valign-middle .columns,
 .valign-middle [class*="column"] + [class*="column"]:last-child {
     float: none;
+}
+
+@media only screen and (min-width: 40.063em) {
+  nav.top-bar {
+    text-align:center;
+    background-color: #cdbc9a;
+  }
+
+  section.top-bar-section {
+    display: inline-block;
+  }
 }
