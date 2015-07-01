@@ -31,18 +31,22 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #cdbc9a;
 }
 
-.button {
+.top-bar-section .button {
   font-family: "Josefin Sans";
   padding-left:1.5rem;
   padding-right:1.5rem;
   background-color: #958a77;
 }
 
-.button:hover {
+.top-bar-section .button:hover {
   background-color: #817867;
 }
 
-.top-bar-section .right li, form{
+.top-bar-section .right li {
+  background-color: #cdbc9a;
+}
+
+.top-bar-section .right form {
   background-color: #cdbc9a;
 }
 
@@ -70,14 +74,53 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #cdbc9a;
   padding-top: 1.5rem;
   padding-bottom: 1rem;
+
+  
 }
 
 .who-do-you h3 {
   color: white;
 }
 
+.join-us {
+  background-color:#ecdde3;
+
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+
+  border-top-color: black;
+  border-top-width: 3px;
+  border-top-style: solid;
+
+  border-bottom-color: black;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+}
+
+.join-us p {
+  font-size: 110%;
+}
+
+.join-us form {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.join-us .button {
+  font-family: "Josefin Sans";
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+  background-color: #1D8893;
+  border-color: #1D8893;
+}
+
+.join-us .button:hover {
+  background-color: #166C75;
+  border-color: #166C75;
+}
+
 .footer {
-  background-color: #aca089;
+  background-color: #dfb0a4;
   padding-top: 1.5rem;
 }
 
@@ -117,5 +160,11 @@ h1, h2, h3, h4, h5, h6 {
 
   section.top-bar-section {
     display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .detail-img {
+    padding-bottom: 1rem;
   }
 }
