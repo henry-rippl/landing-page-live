@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .about-section p {
-  font-size: 140%;
+  font-size: 160%;
 }
 
 .detail-section {
@@ -88,11 +88,11 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 2rem;
   padding-bottom: 1rem;
 
-  border-top-color: black;
+  border-top-color: white;
   border-top-width: 3px;
   border-top-style: solid;
 
-  border-bottom-color: black;
+  border-bottom-color: white;
   border-bottom-width: 3px;
   border-bottom-style: solid;
 }
@@ -108,8 +108,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .join-us .button {
   font-family: "Josefin Sans";
-  padding-left:1.5rem;
-  padding-right:1.5rem;
+  text-align: center;
+  padding-left:0rem;
+  padding-right:0rem;
   background-color: #1D8893;
   border-color: #1D8893;
 }
