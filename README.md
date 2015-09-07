@@ -1,2 +1,3 @@
-# landing-page
-Rippl landing page
+# landing-page-old
+
+Old version of Rippl landing page
