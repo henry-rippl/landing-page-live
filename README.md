@@ -1,3 +1,3 @@
-# landing-page-old
+# landing-page-live
 
-Old version of Rippl landing page
+Live version of Rippl landing page
