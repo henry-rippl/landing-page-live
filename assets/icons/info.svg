@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-287.6 -56.1 473.3 473.3" style="enable-background:new -287.6 -56.1 473.3 473.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F9F9F9;stroke-width:3;}
+	.st1{fill:#F9F9F9;}
+</style>
+<title>Person Icon</title>
+<desc>Created with Sketch.</desc>
+<g id="Person-Icon" sketch:type="MSArtboardGroup">
+	<circle id="Oval-4" sketch:type="MSShapeGroup" class="st0" cx="-50.9" cy="180.5" r="235.2">
+	</circle>
+	<path id="XMLID_42_" class="st1" d="M-50.9-17C-160-17-248.5,71.4-248.5,180.5S-160,378.1-50.9,378.1s197.5-88.4,197.5-197.5
+		S58.2-17-50.9-17z M-13.3,312.2h-65.8V161.7h65.8V312.2z M-46.2,142.9c-23.4,0-42.3-19-42.3-42.3c0-23.4,19-42.3,42.3-42.3
+		c23.4,0,42.3,19,42.3,42.3C-3.9,123.9-22.8,142.9-46.2,142.9z"/>
+</g>
+</svg>
