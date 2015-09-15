@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-287.6 -56.1 473.3 473.3" style="enable-background:new -287.6 -56.1 473.3 473.3;" xml:space="preserve">
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150.9" style="enable-background:new 0 0 150 150.9;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#F9F9F9;stroke-width:3;}
-	.st1{fill:#F9F9F9;}
+	.st0{fill:#F5F5F5;}
 </style>
-<title>Person Icon</title>
-<desc>Created with Sketch.</desc>
-<g id="Person-Icon" sketch:type="MSArtboardGroup">
-	<circle id="Oval-4" sketch:type="MSShapeGroup" class="st0" cx="-50.9" cy="180.5" r="235.2">
-	</circle>
-	<path id="XMLID_42_" class="st1" d="M-50.9-17C-160-17-248.5,71.4-248.5,180.5S-160,378.1-50.9,378.1s197.5-88.4,197.5-197.5
-		S58.2-17-50.9-17z M-13.3,312.2h-65.8V161.7h65.8V312.2z M-46.2,142.9c-23.4,0-42.3-19-42.3-42.3c0-23.4,19-42.3,42.3-42.3
-		c23.4,0,42.3,19,42.3,42.3C-3.9,123.9-22.8,142.9-46.2,142.9z"/>
+<g>
+	<path class="st0" d="M150,75.6c0.7,41.2-34.1,75.3-74.9,75.3c-40.8,0-75.5-34.2-75-76.2C0.4,33.9,34.3-0.1,75.3,0
+		C116,0.1,150.8,34.1,150,75.6z M144.8,74.9c-0.6-38.8-30.6-69.2-69.5-69.4C37.1,5.3,5.6,35.2,5.5,74.9
+		c-0.1,39.4,31.1,69.6,69.6,69.6C113.6,144.5,144.2,114.3,144.8,74.9z"/>
+	<path class="st0" d="M82,77.2c0,2.3,0,4.6,0,6.9c-0.1,2.5-0.2,4.7,3.1,5.7c2,0.6,2.8,4.4,1.9,7c-0.7,2.2-2.4,2.7-4.4,2.6
+		c-5.6-0.1-11.3-0.1-16.9,0c-2.6,0-3.7-1.1-3.7-3.6c0.1-2.9-0.6-6,3.8-6.4c1.3-0.1,1.4-1.7,1.4-2.9c0-2.8,0-5.5,0-8.3
+		c0.1-2.3-0.3-3.8-3.1-4.3c-2.1-0.4-2.6-2.9-2.1-6.7c0.3-2.3,1.7-2.8,3.6-2.8c4.2,0,8.4-0.1,12.6,0c3.2,0.1,3.7,0.6,3.8,3.9
+		C82.1,71.4,82,74.3,82,77.2z"/>
+	<path class="st0" d="M74.1,44.5c8.7-0.4,7.9,1.4,7.9,8.4c0,3.1-1,4.2-4,4.5c-2.4,0.2-4.9,0.2-7.3,0c-2.4-0.1-3.7-1.4-3.5-3.9
+		c0.1-0.7,0-1.4,0-2.2C67.2,44.5,67.2,44.5,74.1,44.5z"/>
 </g>
 </svg>
